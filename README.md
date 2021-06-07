@@ -7,4 +7,4 @@
 [![Gmail](https://img.shields.io/static/v1?label=%20&message=Gmail&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:abs.jain16@gmail.com)
 
 
-🚧 **Current Project:** [`monkshu`](https://github.com/TekMonksGitHub/monkshu)
+<!-- 🚧 **Current Project:** [`monkshu`](https://github.com/TekMonksGitHub/monkshu) -->
