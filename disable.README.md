@@ -2,9 +2,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=arpit9616&show_icons=true">
 
-<!-- [![Linkedin](https://img.shields.io/static/v1?label=%20&message=Linkedin&color=blue&logo=Linkedin&style=for-the-badge&logoColor=white)](https://in.linkedin.com/in/arpit9616) -->
-<!-- [![GitHub](https://img.shields.io/static/v1?label=%20&message=GitHub&color=gray&logo=GitHub&style=for-the-badge&logoColor=white)](https://github.com/arpit9616) -->
-<!-- [![Gmail](https://img.shields.io/static/v1?label=%20&message=Gmail&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:abs.jain16@gmail.com) -->
+[![Linkedin](https://img.shields.io/static/v1?label=%20&message=Linkedin&color=blue&logo=Linkedin&style=for-the-badge&logoColor=white)](https://in.linkedin.com/in/arpit9616)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farpit9616%2Farpit9616&label=Visitors&countColor=%23d9e3f0&labelStyle=upper)
 
-
-<!-- 🚧 **Current Project:** [`monkshu`](https://github.com/TekMonksGitHub/monkshu) -->
+🚧 **Current Project:** [`-`](#)
