@@ -35,19 +35,19 @@
 
 <!-- GitHub open-source contribution stats -->
 ## 📊 Public stats:
-<a href="https://github.com/arpit9616" target="_blank">
+<a href="https://github.com/arpit9616" target="_blank" >
     <img  alt="GitHubStats" height="180em" src="https://github-readme-stats.vercel.app/api?username=arpit9616&show_icons=true" />
     <img  alt="GitHubLanguages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit9616&layout=compact" />
 </a>
 
 <!-- Social handles -->
 ## 📫 Reach me:
-<a href="https://in.linkedin.com/in/arpit9616" target="_blank">
+<a href="https://in.linkedin.com/in/arpit9616" target="_blank" >
     <img align="left" alt="LinkedIn" width="28px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/linkedin" />
 </a>
-<a href="mailto:arpit9616@duck.com" target="_blank">
+<a href="mailto:arpit9616@duck.com" target="_blank" >
     <img align="left" alt="Gmail" width="28px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/gmail" />
 </a>
-<a href="https://github.com/arpit9616" target="_blank">
+<a href="https://github.com/arpit9616" target="_blank" >
     <img align="left" alt="GitHub" width="28px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/github" />
 </a>
