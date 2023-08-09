@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Arpit.
+# 👋 Hello, world! I'm Arpit.
 > Welcome to my GitHub profile!
 
 <!-- Visitor count -->
