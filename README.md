@@ -33,6 +33,13 @@
     ![AWS](https://img.shields.io/badge/-AWS-404040?style=flat&logo=amazonaws&logoColor=white&labelColor=FF9900)
     ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-404040?style=flat&logo=digitalocean&logoColor=white&labelColor=0080FF)
 
+<!-- GitHub open-source contribution stats -->
+## 📊 Public stats:
+<a href="https://github.com/arpit9616" target="_blank">
+    <img  alt="GitHubStats" height="180em" src="https://github-readme-stats.vercel.app/api?username=arpit9616&show_icons=true" />
+    <img  alt="GitHubLanguages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit9616&layout=compact" />
+</a>
+
 <!-- Social handles -->
 ## 📫 Reach me:
 <a href="https://in.linkedin.com/in/arpit9616" target="_blank">
