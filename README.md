@@ -1,6 +1,32 @@
 # 👋 Hello, World! I'm Arpit.
 > Welcome to my GitHub profile!
 
+<!-- Tech skills -->
+## 🧑‍💻 Tech skills:
+- 💻 &nbsp;
+    ![NodeJS](https://img.shields.io/badge/-NodeJS-404040?style=flat-square&logo=Node.js&logoColor=white&labelColor=339933)
+    ![GoLang](https://img.shields.io/badge/-Go-404040?style=flat-square&logo=go&logoColor=white&labelColor=00ADD8)
+    ![Linux](https://img.shields.io/badge/-Linux-404040?style=flat&logo=linux&logoColor=white&labelColor=FCC624)
+    ![Git](https://img.shields.io/badge/-Git-404040?style=flat&logo=git&logoColor=white&labelColor=F05032)
+- 🌐 &nbsp;
+    ![HTML5](https://img.shields.io/badge/-HTML5-404040?style=flat&logo=HTML5&logoColor=white&labelColor=E34F26)
+    ![CSS3](https://img.shields.io/badge/-CSS3-404040?style=flat&logo=CSS3&logoColor=white&labelColor=1572B6)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-404040?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
+- 🛢 &nbsp;
+    ![MySQL](https://img.shields.io/badge/-MySQL-404040?style=flat&logo=mysql&logoColor=white&labelColor=4479A1)
+    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-404040?style=flat&logo=postgresql&logoColor=white&labelColor=4169E1)
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-404040?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
+    ![ClickHouse](https://img.shields.io/badge/-ClickHouse-404040?style=flat&logo=clickhouse&logoColor=white&labelColor=FFCC01)
+- ⚙️ &nbsp;
+    ![Redis](https://img.shields.io/badge/-Redis-404040?style=flat&logo=redis&logoColor=white&labelColor=DC382D)
+    ![Memcached](https://img.shields.io/badge/-Memcached-404040?style=flat&logo=memcached&logoColor=white&labelColor=00874D)
+    ![Kafka](https://img.shields.io/badge/-Kafka-404040?style=flat&logo=apachekafka&logoColor=white&labelColor=231F20)
+    ![Nginx](https://img.shields.io/badge/-Nginx-404040?style=flat&logo=nginx&logoColor=white&labelColor=009639)
+- ☁️ &nbsp;
+    ![GCP](https://img.shields.io/badge/-GCP-404040?style=flat&logo=googlecloud&logoColor=white&labelColor=4285F4)
+    ![AWS](https://img.shields.io/badge/-AWS-404040?style=flat&logo=amazonaws&logoColor=white&labelColor=FF9900)
+    ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-404040?style=flat&logo=digitalocean&logoColor=white&labelColor=0080FF)
+
 <!-- Social handles -->
 ## 📫 Reach me:
 <a href="https://in.linkedin.com/in/arpit9616" target="_blank">
