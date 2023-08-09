@@ -2,7 +2,10 @@
 > Welcome to my GitHub profile!
 
 <!-- Visitor count -->
+<div align="center">
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farpit9616%2Farpit9616&label=Profile%20Views&labelColor=%23404040&countColor=%232f80ed&labelStyle=upper)
+</div>
 
 <!-- Tech skills -->
 ## 🧑‍💻 Tech skills:
