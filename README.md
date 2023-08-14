@@ -18,6 +18,7 @@
     ![HTML5](https://img.shields.io/badge/-HTML5-404040?style=flat&logo=HTML5&logoColor=white&labelColor=E34F26)
     ![CSS3](https://img.shields.io/badge/-CSS3-404040?style=flat&logo=CSS3&logoColor=white&labelColor=1572B6)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-404040?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-404040?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
 - 🛢 &nbsp;
     ![MySQL](https://img.shields.io/badge/-MySQL-404040?style=flat&logo=mysql&logoColor=white&labelColor=4479A1)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-404040?style=flat&logo=postgresql&logoColor=white&labelColor=4169E1)
