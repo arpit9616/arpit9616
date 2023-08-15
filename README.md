@@ -7,8 +7,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farpit9616%2Farpit9616&label=Profile%20Views&labelColor=%23404040&countColor=%232f80ed&labelStyle=upper)
 </div>
 
-<!-- Tech skills -->
-## 🧑‍💻 Tech skills:
+<!-- My technologies -->
+## 🧑‍💻 Technologies:
 - 💻 &nbsp;
     ![NodeJS](https://img.shields.io/badge/-NodeJS-404040?style=flat-square&logo=Node.js&logoColor=white&labelColor=339933)
     ![GoLang](https://img.shields.io/badge/-Go-404040?style=flat-square&logo=go&logoColor=white&labelColor=00ADD8)
@@ -35,7 +35,7 @@
     ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-404040?style=flat&logo=digitalocean&logoColor=white&labelColor=0080FF)
 
 <!-- GitHub open-source contribution stats -->
-## 📊 Public stats:
+## 📊 Open-source contributions:
 <a href="https://github.com/arpit9616" target="_blank" >
     <img  alt="GitHubStats" height="180em" src="https://github-readme-stats.vercel.app/api?username=arpit9616&show_icons=true" />
     <img  alt="GitHubLanguages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit9616&layout=compact" />
