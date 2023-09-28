@@ -1,5 +1,5 @@
-# 👋 Hello, world! I'm Arpit.
-> Welcome to my GitHub profile!
+# 👋 Hello, world!
+> Welcome to my GitHub profile.
 
 <!-- Visitor count -->
 <div align="center">
