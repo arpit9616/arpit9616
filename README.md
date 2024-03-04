@@ -5,7 +5,9 @@
 ###
 
 <div align="center">
-    <img height="200" src="https://avatars.githubusercontent.com/u/14257055?v=4" style="border-radius: 50%;" />
+    <a href="https://github.com/arpit9616">
+        <img src="https://avatars.githubusercontent.com/u/14257055" height="auto" width="200" style="border-radius: 50%;" />
+    </a>
 </div>
 
 ###
