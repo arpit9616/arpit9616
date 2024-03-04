@@ -12,7 +12,11 @@
 
 ###
 
-<p align="center">Welcome to my GitHub profile.</p>
+<p align="center">
+    Welcome to my GitHub profile.
+    <br />
+    I'm <strong>Arpit</strong>, a software engineer from India. 🇮🇳
+</p>
 
 ###
 
@@ -20,6 +24,10 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farpit9616%2Farpit9616&label=Visitors&labelColor=%23404040&countColor=%232f80ed&labelStyle=upper)
 </div>
+
+###
+
+<br />
 
 ###
 
@@ -61,7 +69,11 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/arpit9616/arpit9616/output/snake.svg" alt="Snake animation" /> -->
+<!-- <img src="https://raw.githubusercontent.com/arpit9616/arpit9616/output/snake.svg" alt="Snake Animation" /> -->
+
+###
+
+<br />
 
 ###
 
