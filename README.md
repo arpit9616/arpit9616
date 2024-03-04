@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="https://github.com/arpit9616">
-        <img src="https://avatars.githubusercontent.com/u/14257055" height="auto" width="200" style="border-radius: 50%;" />
+        <img src="https://avatars.githubusercontent.com/u/14257055" height="auto" width="200" />
     </a>
 </div>
 
