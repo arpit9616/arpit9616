@@ -13,9 +13,9 @@
 ###
 
 <p align="center">
-    Welcome to my GitHub profile.
+    I'm <strong>Arpit</strong>, a software engineer from <strong>India</strong>. 🇮🇳
     <br />
-    I'm <strong>Arpit</strong>, a software engineer from India. 🇮🇳
+    Welcome to my GitHub profile.
 </p>
 
 ###
