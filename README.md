@@ -1,46 +1,71 @@
-# 👋 Hello, world!
-> Welcome to my GitHub profile.
+### 
 
-<!-- Visitor count -->
+<h1 align="center">👋 Hello world!</h1>
+
+###
+
 <div align="center">
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farpit9616%2Farpit9616&label=Profile%20Views&labelColor=%23404040&countColor=%232f80ed&labelStyle=upper)
+    <img height="200" src="https://avatars.githubusercontent.com/u/14257055?v=4" style="border-radius: 50%;" />
 </div>
 
-<!-- My technologies -->
-## 🧑‍💻 Technologies:
-- 💻 &nbsp;
-    ![NodeJS](https://img.shields.io/badge/-NodeJS-404040?style=flat-square&logo=Node.js&logoColor=white&labelColor=339933)
-    ![GoLang](https://img.shields.io/badge/-Go-404040?style=flat-square&logo=go&logoColor=white&labelColor=00ADD8)
-    ![Linux](https://img.shields.io/badge/-Linux-404040?style=flat&logo=linux&logoColor=white&labelColor=FCC624)
-    ![Git](https://img.shields.io/badge/-Git-404040?style=flat&logo=git&logoColor=white&labelColor=F05032)
-- 🌐 &nbsp;
-    ![HTML5](https://img.shields.io/badge/-HTML5-404040?style=flat&logo=HTML5&logoColor=white&labelColor=E34F26)
-    ![CSS3](https://img.shields.io/badge/-CSS3-404040?style=flat&logo=CSS3&logoColor=white&labelColor=1572B6)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-404040?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
-    ![TypeScript](https://img.shields.io/badge/-TypeScript-404040?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
-- 🛢 &nbsp;
-    ![MySQL](https://img.shields.io/badge/-MySQL-404040?style=flat&logo=mysql&logoColor=white&labelColor=4479A1)
-    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-404040?style=flat&logo=postgresql&logoColor=white&labelColor=4169E1)
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-404040?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
-    ![ClickHouse](https://img.shields.io/badge/-ClickHouse-404040?style=flat&logo=clickhouse&logoColor=white&labelColor=FFCC01)
-- ⚙️ &nbsp;
-    ![Redis](https://img.shields.io/badge/-Redis-404040?style=flat&logo=redis&logoColor=white&labelColor=DC382D)
-    ![Memcached](https://img.shields.io/badge/-Memcached-404040?style=flat&logo=memcached&logoColor=white&labelColor=00874D)
-    ![Kafka](https://img.shields.io/badge/-Kafka-404040?style=flat&logo=apachekafka&logoColor=white&labelColor=231F20)
-    ![Nginx](https://img.shields.io/badge/-Nginx-404040?style=flat&logo=nginx&logoColor=white&labelColor=009639)
-- ☁️ &nbsp;
-    ![GCP](https://img.shields.io/badge/-GCP-404040?style=flat&logo=googlecloud&logoColor=white&labelColor=4285F4)
-    ![AWS](https://img.shields.io/badge/-AWS-404040?style=flat&logo=amazonaws&logoColor=white&labelColor=FF9900)
-    ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-404040?style=flat&logo=digitalocean&logoColor=white&labelColor=0080FF)
+###
 
-<!-- GitHub open-source contribution stats -->
-## 📊 Open-source contributions:
-<a href="https://github.com/arpit9616" target="_blank" >
-    <img  alt="GitHubStats" height="180em" src="https://github-readme-stats.vercel.app/api?username=arpit9616&show_icons=true" />
-    <img  alt="GitHubLanguages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit9616&layout=compact" />
-</a>
+<p align="center">Welcome to my GitHub profile.</p>
 
-<!-- Github open-source contribution streak -->
-<!-- ![ContributionStreak](https://github-readme-streak-stats.herokuapp.com?user=arpit9616&date_format=M%20j%5B%2C%20Y%5D&card_width=467&hide_total_contributions=true) -->
+###
 
+<div align="center">
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farpit9616%2Farpit9616&label=Visitors&labelColor=%23404040&countColor=%232f80ed&labelStyle=upper)
+</div>
+
+###
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"  />
+</div>
+
+###
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="Digital Ocean"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Apache Kafka"  />
+</div>
+
+###
+
+<!-- <img src="https://raw.githubusercontent.com/arpit9616/arpit9616/output/snake.svg" alt="Snake animation" /> -->
+
+###
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arpit9616&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit9616&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
