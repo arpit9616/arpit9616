@@ -65,10 +65,6 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/arpit9616/arpit9616/output/snake.svg" alt="Snake Animation" /> -->
-
-###
-
 <br />
 
 ###
