@@ -30,8 +30,8 @@ interface IEngineer {
   yoe: TYoE;
   impact: {
     ai: { dailyTokens: TScale; stack: string[] };
-    fintech: { users: TScale };
-    adtech: { dailyRPS: TScale; p99: TLatency };
+    fintech: { users: TScale; stack: string[] };
+    adtech: { dailyRequests: TScale; p99: TLatency };
   };
 }
 
@@ -46,15 +46,27 @@ const arpit: IEngineer = {
         "LangGraph",
         "OpenAI",
         "Anthropic",
-        "Vertex AI",
-        "Azure AI Foundry",
         "Gemini",
+        "Azure AI Foundry",
+        "Vertex AI",
         "DeepSeek",
         "Kimi",
       ],
     },
-    fintech: { users: "500K+" },
-    adtech: { dailyRPS: "2B+", p99: "<100ms" },
+    fintech: {
+      users: "500K+",
+      stack: [
+        "Credit Card",
+        "Health Insurance",
+        "Wallet",
+        "Flexi Deposit",
+        "Mutual Funds",
+        "Neo Bank",
+        "Account Aggregator",
+        "Payments",
+      ],
+    },
+    adtech: { dailyRequests: "2B+", p99: "<100ms" },
   },
 } satisfies IEngineer;
 ```
