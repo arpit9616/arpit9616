@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arpit%20Jain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend&descAlignY=55&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,12,30&text=Arpit%20Jain&reversal=false&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend&descAlignY=54&descSize=20" width="100%" />
 </div>
 
 <br/>
@@ -136,5 +136,5 @@ const arpit: IEngineer = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,30&height=120&section=footer" width="100%" />
 </div>
