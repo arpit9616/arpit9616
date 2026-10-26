@@ -2,13 +2,13 @@
 
 # Arpit Jain
 
-**Engineering Manager &middot; Backend & AI Platforms &middot; Delhi, India**
+**Founding Engineer &middot; Backend & AI Platforms &middot; Delhi, India**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arpit9616-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit9616)
 
 </div>
 
-I build backend and AI systems that hold up at scale, and lead the teams that run them. Over 8+ years at startups that has meant a 2B+ requests/day ad-tech tracking pipeline, a fintech app with 500K+ users, and an LLM research platform serving 1.2B+ tokens a day.
+I build backend and AI systems that hold up at scale, and lead the teams that run them. Over 8+ years at startups that has meant a 2B+ requests/day ad-tech tracking pipeline, a fintech app with 500K+ users, and an LLM research platform serving 1.2B+ tokens a day. Before that, I worked on security and networking R&D: a TCP/UDP layer that serves traffic with no inbound firewall ports open, a load balancer spanning multiple clouds, and a secure remote-access product.
 
 ## Journey
 
@@ -24,10 +24,9 @@ gantt
     Deep LogicTech    :2018-06, 2021-05
     Trackier          :2021-06, 2022-09
     Mool              :2022-10, 2026-10
-    Exploring         :2026-10, 2027-01
 ```
 
-Happy to connect on [LinkedIn](https://linkedin.com/in/arpit9616), and say hi there if you'd like my latest resume.
+Happy to connect on [LinkedIn](https://linkedin.com/in/arpit9616).
 
 ## Tech Stack
 
@@ -105,10 +104,4 @@ Happy to connect on [LinkedIn](https://linkedin.com/in/arpit9616), and say hi th
   <img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/vertexai-color.svg" width="36" height="36" alt="Vertex AI" title="Vertex AI"/>
   &nbsp;
   <img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/gemini-color.svg" width="36" height="36" alt="Gemini" title="Gemini"/>
-</div>
-
-## GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arpit9616&theme=black-ice&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" height="160" alt="GitHub Streak"/>
 </div>
