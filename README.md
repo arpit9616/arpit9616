@@ -1,77 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,12,30&text=Arpit%20Jain&reversal=false&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend&descAlignY=54&descSize=20" width="100%" />
+
+# Arpit Jain
+
+**Founding Engineer &middot; Backend & AI Platforms &middot; Delhi, India**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arpit9616-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit9616)
+
 </div>
 
-<br/>
+I build backend and AI systems that hold up at scale, and lead the teams that run them. Over 8+ years at startups that has meant a 2B+ requests/day ad-tech tracking pipeline, a fintech app with 500K+ users, and an LLM research platform serving 1.2B+ tokens a day. Before that, I worked on security and networking R&D: a TCP/UDP layer that serves traffic with no inbound firewall ports open, a load balancer spanning multiple clouds, and secure remote-access protocols.
 
-<div align="center">
-  <a href="https://github.com/arpit9616">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0279CC&center=true&vCenter=true&width=560&lines=Engineering+Manager+%7C+8%2B+Years;Scaling+AI+to+400M%2B+tokens+%2F+day+%F0%9F%A4%96;Fintech+%7C+AdTech+%7C+Cybersecurity;2B%2B+requests+%2F+day+at+%3C100ms+%E2%9A%A1;Startups+%E2%86%92+Scale+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</div>
+## Journey
 
-<br/>
+```mermaid
+%%{init: {"themeVariables": {"taskBkgColor": "rgba(0, 122, 204, 0.7)", "taskBorderColor": "#007ACC", "taskTextColor": "#FFFFFF", "taskTextLightColor": "#FFFFFF", "sectionBkgColor": "transparent", "altSectionBkgColor": "transparent"}}}%%
+gantt
+    dateFormat YYYY-MM
+    axisFormat %Y
+    tickInterval 1year
+    todayMarker off
 
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farpit9616%2Farpit9616&label=profile%20views&labelColor=%230E1116&countColor=%230279CC&labelStyle=lower" />
-</div>
-
----
-
-## About Me
-
-```typescript
-type TScale = `${number}${"K" | "M" | "B"}+`;
-type TLatency = `<${number}ms`;
-type TYoE = `${number}+ yrs`;
-
-interface IEngineer {
-  roles: readonly ["Engineering Manager", "Individual Contributor"];
-  yoe: TYoE;
-  impact: {
-    ai: { dailyTokens: TScale; stack: string[] };
-    fintech: { users: TScale; stack: string[] };
-    adtech: { dailyRequests: TScale; p99: TLatency };
-  };
-}
-
-const arpit: IEngineer = {
-  roles: ["Engineering Manager", "Individual Contributor"],
-  yoe: "8+ yrs",
-  impact: {
-    ai: {
-      dailyTokens: "400M+",
-      stack: [
-        "LangChain",
-        "LangGraph",
-        "OpenAI",
-        "Anthropic",
-        "Gemini",
-        "Azure AI Foundry",
-        "Vertex AI",
-        "DeepSeek",
-        "Kimi",
-      ],
-    },
-    fintech: {
-      users: "500K+",
-      stack: [
-        "Credit Card",
-        "Health Insurance",
-        "Wallet",
-        "Flexi Deposit",
-        "Mutual Funds",
-        "Neo Bank",
-        "Account Aggregator",
-        "Payments",
-      ],
-    },
-    adtech: { dailyRequests: "2B+", p99: "<100ms" },
-  },
-} satisfies IEngineer;
+    Freelancing       :2017-10, 2018-06
+    Deep LogicTech    :2018-06, 2021-05
+    Trackier          :2021-06, 2022-09
+    Mool              :2022-10, 2026-10
 ```
 
----
+Happy to connect on [LinkedIn](https://linkedin.com/in/arpit9616).
 
 ## Tech Stack
 
@@ -98,7 +53,13 @@ const arpit: IEngineer = {
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="36" alt="Kafka"/>
+  <img src="https://skillicons.dev/icons?i=kafka" height="36" alt="Kafka"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/clickhouse/D4A700" width="36" height="36" alt="ClickHouse" title="ClickHouse"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlepubsub/4285F4" width="36" height="36" alt="Google Pub/Sub" title="Google Pub/Sub"/>
+  &nbsp;
+  <img src="https://api.iconify.design/logos/aws-sqs.svg" width="36" height="36" alt="AWS SQS" title="AWS SQS"/>
 </div>
 
 <br/>
@@ -106,35 +67,41 @@ const arpit: IEngineer = {
 **Infrastructure & Cloud**
 
 <div>
+  <img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="GCP"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" alt="Terraform"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="GCP"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36" alt="AWS"/>
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="36" alt="DigitalOcean"/>
 </div>
 
----
+<br/>
 
-## GitHub Stats
+**AI & LLMs**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arpit9616&theme=black-ice&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" height="160" alt="GitHub Streak"/>
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit9616&theme=react-dark&hide_border=true&radius=8&days=45" width="95%" alt="Activity Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,30&height=120&section=footer" width="100%" />
+<div>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/langchain-color.svg" width="36" height="36" alt="LangChain" title="LangChain"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph/3E9C8A" width="36" height="36" alt="LangGraph" title="LangGraph"/>
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/bedrock-color.svg" width="36" height="36" alt="AWS Bedrock" title="AWS Bedrock"/>
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/azureai-color.svg" width="36" height="36" alt="Azure AI Foundry" title="Azure AI Foundry"/>
+  &nbsp;
+  <img src="https://api.iconify.design/simple-icons/openai.svg?color=%2310A37F" width="36" height="36" alt="OpenAI" title="OpenAI"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="36" height="36" alt="Anthropic" title="Anthropic"/>
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/vertexai-color.svg" width="36" height="36" alt="Vertex AI" title="Vertex AI"/>
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/gemini-color.svg" width="36" height="36" alt="Gemini" title="Gemini"/>
 </div>
